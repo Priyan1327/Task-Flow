@@ -22,7 +22,7 @@ A simple and efficient system to manage tasks, assign them to users, and track t
 
 Frontend: React
 
-Backend: Node.js / Express.js
+Backend: Node.js / Express.js / Nodemoon
 
 Database: MongoDB (or MySQL, depending on your setup)
 
