@@ -24,7 +24,7 @@ Frontend: React
 
 Backend: Node.js / Express.js / Nodemoon
 
-Database: MongoDB (or MySQL, depending on your setup)
+Database: MongoDB
 
 Authentication: JWT (JSON Web Tokens) stored in Cookies
 
